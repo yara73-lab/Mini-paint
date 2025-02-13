@@ -9,7 +9,7 @@ Features 🚀
 ✅ Object-Oriented Design – Implements OOP principles like inheritance and polymorphism.
 
 Technologies Used 🔧
-Programming language: Java (Swing for GUI, Object-Oriented Programming)
+Programming language: Java 
 File Handling (for saving and loading shapes)
 How It Works? 🛠
 1️⃣ Select a shape using buttons.
